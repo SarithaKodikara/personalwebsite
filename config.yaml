@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Saritha Kodikara
-baseurl: ''
+baseurl: 'https://sarithakodikara.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
