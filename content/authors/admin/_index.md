@@ -42,7 +42,7 @@ social:
   link: https://www.linkedin.com/in/saritha-kodikara-baa16583/
 - icon: orcid
   icon_pack: ai
-  link: "https://orcid.org/0000-0002-7039-8398"
+  link: https://orcid.org/0000-0002-7039-8398
 superuser: true
 title: Saritha Kodikara
 ---
