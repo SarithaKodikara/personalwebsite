@@ -43,6 +43,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7039-8398
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Saritha_Kodikara
 superuser: true
 title: Saritha Kodikara
 ---
