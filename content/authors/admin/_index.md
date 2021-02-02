@@ -46,6 +46,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Saritha_Kodikara
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/4223181/saritha-kodikara/
 superuser: true
 title: Saritha Kodikara
 ---
