@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haydar Demirhan | Saritha Kodikara</title>
-    <link>/author/haydar-demirhan/</link>
-      <atom:link href="/author/haydar-demirhan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saritha.rbind.io/author/haydar-demirhan/</link>
+      <atom:link href="https://saritha.rbind.io/author/haydar-demirhan/index.xml" rel="self" type="application/rss+xml" />
     <description>Haydar Demirhan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://saritha.rbind.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Haydar Demirhan</title>
-      <link>/author/haydar-demirhan/</link>
+      <link>https://saritha.rbind.io/author/haydar-demirhan/</link>
     </image>
     
     <item>
       <title>Inferring extinction date of a species using non‐homogeneous Poisson processes with a change‐point</title>
-      <link>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring extinction year using a Bayesian approach</title>
-      <link>/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using survival theory models to quantify extinctions</title>
-      <link>/publication/using-survival-theory-models-to-quantify-extinctions/</link>
+      <link>https://saritha.rbind.io/publication/using-survival-theory-models-to-quantify-extinctions/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/using-survival-theory-models-to-quantify-extinctions/</guid>
+      <guid>https://saritha.rbind.io/publication/using-survival-theory-models-to-quantify-extinctions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian updating to estimate extinction from sequential observation data</title>
-      <link>/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</link>
+      <link>https://saritha.rbind.io/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</guid>
+      <guid>https://saritha.rbind.io/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring about the extinction of a species using certain and uncertain sightings</title>
-      <link>/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</link>
+      <link>https://saritha.rbind.io/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</guid>
       <description></description>
     </item>
     

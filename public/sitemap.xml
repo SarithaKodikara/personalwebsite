@@ -1,250 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/python/</loc>
+    <loc>https://saritha.rbind.io/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/visualization/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/stats/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example-talk/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/hi-hugo/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/hi-hugo/</loc>
     <lastmod>2021-01-29T21:07:21+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/</loc>
     <lastmod>2021-01-29T21:07:21+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication-type/2/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/authors/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/haydar-demirhan/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/haydar-demirhan/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lewi-stone/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/lewi-stone/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication_types/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/saritha-kodikara/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/saritha-kodikara/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/source-themes/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tags/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yan-wang/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/yan-wang/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-01-r-rmarkdown/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andrew-solow/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/andrew-solow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/inferring-extinction-year-using-a-bayesian-approach/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/colin-j.thompson/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/colin-j.thompson/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mark-a.burgman/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/author/mark-a.burgman/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/using-survival-theory-models-to-quantify-extinctions/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/using-survival-theory-models-to-quantify-extinctions/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saritha.rbind.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saritha.rbind.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saritha.rbind.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saritha.rbind.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
 </urlset>

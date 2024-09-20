@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yan Wang | Saritha Kodikara</title>
-    <link>/author/yan-wang/</link>
-      <atom:link href="/author/yan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saritha.rbind.io/author/yan-wang/</link>
+      <atom:link href="https://saritha.rbind.io/author/yan-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yan Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://saritha.rbind.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yan Wang</title>
-      <link>/author/yan-wang/</link>
+      <link>https://saritha.rbind.io/author/yan-wang/</link>
     </image>
     
     <item>
       <title>Inferring extinction date of a species using non‐homogeneous Poisson processes with a change‐point</title>
-      <link>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring extinction year using a Bayesian approach</title>
-      <link>/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
       <description></description>
     </item>
     

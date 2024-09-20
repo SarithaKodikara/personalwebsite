@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saritha Kodikara</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://saritha.rbind.io/</link>
+      <atom:link href="https://saritha.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Saritha Kodikara</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://saritha.rbind.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Saritha Kodikara</title>
-      <link>/</link>
+      <link>https://saritha.rbind.io/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>/courses/example/python/</link>
+      <link>https://saritha.rbind.io/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/python/</guid>
+      <guid>https://saritha.rbind.io/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>/courses/example/visualization/</link>
+      <link>https://saritha.rbind.io/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/visualization/</guid>
+      <guid>https://saritha.rbind.io/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>/courses/example/stats/</link>
+      <link>https://saritha.rbind.io/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/stats/</guid>
+      <guid>https://saritha.rbind.io/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>https://saritha.rbind.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example-talk/</guid>
+      <guid>https://saritha.rbind.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,25 +129,25 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Hi Hugo</title>
-      <link>/post/hi-hugo/</link>
+      <link>https://saritha.rbind.io/post/hi-hugo/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/hi-hugo/</guid>
+      <guid>https://saritha.rbind.io/post/hi-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring extinction date of a species using non‐homogeneous Poisson processes with a change‐point</title>
-      <link>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-date-of-a-species-using-nonhomogeneous-poisson-processes-with-a-changepoint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://saritha.rbind.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://saritha.rbind.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -239,9 +239,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://saritha.rbind.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://saritha.rbind.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -278,7 +278,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://saritha.rbind.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -289,25 +289,25 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Inferring extinction year using a Bayesian approach</title>
-      <link>/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
+      <link>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-extinction-year-using-a-bayesian-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using survival theory models to quantify extinctions</title>
-      <link>/publication/using-survival-theory-models-to-quantify-extinctions/</link>
+      <link>https://saritha.rbind.io/publication/using-survival-theory-models-to-quantify-extinctions/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/using-survival-theory-models-to-quantify-extinctions/</guid>
+      <guid>https://saritha.rbind.io/publication/using-survival-theory-models-to-quantify-extinctions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>https://saritha.rbind.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>https://saritha.rbind.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -331,7 +331,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-138642759&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-675124938&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -341,7 +341,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-138642759&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-675124938&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -357,14 +357,14 @@ data.head()
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em&gt;{n}) - \nabla F(\mathbf{x}&lt;/em&gt;{n-1}) \right |^2}$$&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\\\
 1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_{0}^{&lt;em&gt;}) = \begin{cases}p_{0}^{&lt;/em&gt;} &amp;amp; \text{if }k=1, \\
 1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -569,9 +569,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://saritha.rbind.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://saritha.rbind.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -607,15 +607,15 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://saritha.rbind.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://saritha.rbind.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -662,15 +662,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -742,33 +742,33 @@ Three
     
     <item>
       <title>Bayesian updating to estimate extinction from sequential observation data</title>
-      <link>/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</link>
+      <link>https://saritha.rbind.io/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</guid>
+      <guid>https://saritha.rbind.io/publication/bayesian-updating-to-estimate-extinction-from-sequential-observation-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring about the extinction of a species using certain and uncertain sightings</title>
-      <link>/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</link>
+      <link>https://saritha.rbind.io/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</guid>
+      <guid>https://saritha.rbind.io/publication/inferring-about-the-extinction-of-a-species-using-certain-and-uncertain-sightings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://saritha.rbind.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://saritha.rbind.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://saritha.rbind.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://saritha.rbind.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
