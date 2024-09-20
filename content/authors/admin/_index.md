@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Bayesian Statistics, Computational Statistics, Time Series Analysis and Microbiome data analysis.
+bio: My research interests include Bayesian Statistics, Computational Statistics and Time Series Analysis.
   matter.
 education:
   courses:
@@ -56,7 +56,7 @@ title: Saritha Kodikara
 **Hello, and welcome!** I'm a research fellow in [Computational Genomics & Statistics](https://sites.research.unimelb.edu.au/integrative-genomics) at the University of Melbourne School of Mathematics and Statistics. I earned my PhD in Statistics from RMIT University, Australia, under the supervision of Professor Lewi Stone, 
 Dr Haydar Demirhan and Dr Yan Wang. 
 
-My research interests include applications of statistics in ecology and biology. I work in the [Le Cao Lab](https://lecao-lab.science.unimelb.edu.au/#tabmain) on a project that develop statistical techniques on microbial communities. Learn more about my research interests in [publications](publication). Testing
+My research interests include applications of statistics in ecology and biology. I work in the [Le Cao Lab](https://lecao-lab.science.unimelb.edu.au/#tabmain) on a project that develop statistical techniques on microbial communities. Learn more about my research interests in [publications](publication).
 
 
 
