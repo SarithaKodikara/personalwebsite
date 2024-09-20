@@ -16,7 +16,8 @@ image:
 projects: []
 publication: '*Methods in Ecology and Evolution*'
 publication_short: ''
-publication_types: '2'
+publication_types:
+- "2"
 publishDate: '2020-12-14'
 slides: null
 summary: null
