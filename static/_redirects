@@ -1,3 +1,2 @@
-http://saritha.rbind.io/*            https://saritha.rbind.io/:splat  301!
-http://sarithakodikara.netlify.app/*           https://saritha.rbind.io/:splat  301!
-https://sarithakodikara.netlify.app/*           https://saritha.rbind.io/:splat  301!
+http://saritha.rbind.io/*            https://sarithakodikara.netlify.app/:splat  301!
+https://saritha.rbind.io/*           https://sarithakodikara.netlify.app/:splat  301!
