@@ -5,12 +5,20 @@
     <link>https://saritha.rbind.io/publication/</link>
       <atom:link href="https://saritha.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://saritha.rbind.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://saritha.rbind.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Gene-environment-gut interactions in Huntington&#39;s disease mice are associated with environmental modulation of the gut microbiome</title>
+      <link>https://saritha.rbind.io/publication/gene-environment-gut-interactions-in-huntingtons-disease-mice-are-associated-with-environmental-modulation-of-the-gut-microbiome/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://saritha.rbind.io/publication/gene-environment-gut-interactions-in-huntingtons-disease-mice-are-associated-with-environmental-modulation-of-the-gut-microbiome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inferring extinction date of a species using non‐homogeneous Poisson processes with a change‐point</title>
