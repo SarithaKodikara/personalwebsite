@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geraint B Rogers | Saritha Kodikara</title>
+    <link>https://saritha.rbind.io/author/geraint-b-rogers/</link>
+      <atom:link href="https://saritha.rbind.io/author/geraint-b-rogers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geraint B Rogers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://saritha.rbind.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Geraint B Rogers</title>
+      <link>https://saritha.rbind.io/author/geraint-b-rogers/</link>
+    </image>
+    
+    <item>
+      <title>Faecal microbiota transplant ameliorates gut dysbiosis and cognitive deficits in Huntington’s disease mice</title>
+      <link>https://saritha.rbind.io/publication/faecal-microbiota-transplant-ameliorates-gut-dysbiosis-and-cognitive-deficits-in-huntingtons-disease-mice/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://saritha.rbind.io/publication/faecal-microbiota-transplant-ameliorates-gut-dysbiosis-and-cognitive-deficits-in-huntingtons-disease-mice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
